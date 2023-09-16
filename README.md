@@ -1,2 +1,2 @@
 # JavaScript_basic
-Learning JavaScript basic
+Learning JavaScript basic and this is my first github repository
